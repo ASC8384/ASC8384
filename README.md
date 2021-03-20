@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![ASC_8384's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASC8384&show_icons=true&theme=gruvbox)
+
 <!--
 **ASC8384/ASC8384** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
